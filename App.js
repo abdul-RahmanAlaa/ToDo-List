@@ -208,11 +208,12 @@ const styles = StyleSheet.create({
     height: 50,
     borderRadius: 50,
     justifyContent: "space-between",
+    maxWidth: "100%",
   },
   taskText: {
     marginVertical: 14,
     marginStart: 20,
-    maxWidth: "70%",
+    maxWidth: "40%",
     color: accentColor,
   },
   buttonsContainer: {
